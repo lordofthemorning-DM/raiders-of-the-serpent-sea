@@ -1,0 +1,1 @@
+Thonir, son of Aldyhn, was one of the Vanir. Though tricked into betraying his people, he redeemed himself by slaying Boða. He is believed to be the ruler of the Halls of the Slain (located in the heavens above Grimnir) and is the custodian of the winged women who transport the bravest of dead raiders into the heavens.

@@ -1,0 +1,1 @@
+One of two twin gods alongside Idin. Having lost their mother’s fabled, magical weapon in the Exodus, they developed a style of fighting requiring two warriors working in tandem to deal devastating results on the battlefield. Individually each was a powerful warrior, together they were unstoppable. Gnark is the God of Fields and Idin the Goddess of Forges.

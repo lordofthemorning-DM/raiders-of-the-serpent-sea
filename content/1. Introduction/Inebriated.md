@@ -1,0 +1,8 @@
+Inebriated is a tracked condition similar to Fatigue and Strife that measures a player character’s level of intoxication. This is not frequently a condition encountered while in the wilderness, but while in towns or performing extended periods of downtime, players may wish to engage in revelry, carousing, or a good old-fashioned drinking contest. The rules for inebriated are as follows: 
+- A player character may consume a number of alcoholic beverages equal to their Constitution modifier (minimum 0) before potentially experiencing the effects of being inebriated. 
+- Every subsequent alcoholic beverage consumed has an associated Constitution saving throw, as outlined in the table below. If you have advantage or an expertise die on saves against poison or the poisoned condition, you may apply them to saves against becoming inebriated. If you are immune to the poisoned condition, the maximum level of inebriated you can experience is level 3. 
+- The effects of being inebriated stack, similar to other tracked conditions. Casting spells such as lesser restoration may remove 1 level of inebriated, provided the player character is at levels 1, 2, or 3. If an adventurer is at levels 4 or 5, greater restoration may remove one level of inebriated. Long resting removes all levels of the condition, but the player character may suffer the effects of the hungover condition, detailed below.
+
+![[Inebriated.jpg]]
+
+(*Source: Hearth and Home*)

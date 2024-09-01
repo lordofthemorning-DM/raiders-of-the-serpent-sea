@@ -1,0 +1,1 @@
+Vani was a large and powerful warrior able to cleave a Yoten in two with one swing of his greatsword, Cullen. Strong and loyal, Vani is central to many of the epic battle poems told by the raiders. The tallfolk clan, the Risa, worship Vani and aspire to be as powerful as him.

@@ -1,0 +1,1 @@
+A tall, broad woman with long, braided hair, Knat was the first to charge into battle among the heroes of old. With a love of competition, she has become the symbol of sport and good-natured rivalry among the raiders, and the Knattle clan took their name from her.

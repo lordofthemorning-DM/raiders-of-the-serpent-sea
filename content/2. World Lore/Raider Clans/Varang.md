@@ -1,0 +1,3 @@
+This is a disparate group, with no leader. The word “varang” refers to longship crews or villages that are not part of any of the major clans. They are also referred to as minor or lesser clans. Most of their settlements are hidden to avoid being attacked by more powerful raiders but their largest, Nowhere, is well known—though difficult to reach.
+
+All races live among the varang, but they have more tieflings than other clans. Many raiders superstitiously believe tieflings to be Yoten and ostracize them, so they tend to find themselves safe only among these outsiders.

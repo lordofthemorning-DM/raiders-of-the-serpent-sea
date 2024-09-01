@@ -1,0 +1,3 @@
+The völv are independent of the clans themselves. Moored most often at an ancient temple near the Well of Wisdom, every eight years Drifthall sets sail on the Serpent Sea and all the acknowledged raider clans join their longships to it, forming a large community that functions as one, for eight days. During this time important business, trade, and justice is settled. Most often, non-violently.
+
+The völv arrange for this Gathering and ensure the peace is kept. Without them it is likely that the clans would not have any sense of cohesion and may have even destroyed one another a long time ago. As well, at the Gathering, the seers select children from among all the clans to be brought to the Well of Wisdom and tested. If worthy, they begin their training as future völv.

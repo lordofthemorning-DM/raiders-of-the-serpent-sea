@@ -1,0 +1,3 @@
+Backgrounds function similarly to standard 5e, giving recommended starting equipment, languages, skill and tool proficiencies, and a minor feature.  Unlike standard 5e, A5e back grounds also give a min or advancement feature if you meet certain requirements, and are also the source of ability score bonuses gained at level 1, with each background giving +1 to a specific score and +1 to a score of your choice.
+
+The following Backgrounds are allowed in this campaign: [[Acolyte]], [[Artisan]], [[Cursed]], [[Entertainer]], [[Exile]], [[Farmer]], [[Folk Hero]], [[Gambler]], [[Guard]], [[Hedge Witch]], [[Hermit]], [[Keeper]], [[Marauder]], [[Monster Slayer]], [[Noble]], [[Outlander]], [[Sage]], [[Sailor]], [[Scrapper]], [[Strategist]]

@@ -1,0 +1,1 @@
+Standard Rules for dragonborn in A5e can be found here: https://a5e.tools/rules/dragonborn

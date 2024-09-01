@@ -1,0 +1,44 @@
+![[selkie.jpg]]
+Many myths recount that the first selkies were created when a ship capsized in a tempest. The Serpent Sea itself responded to the cries of the doomed travelers by transforming them into seals, allowing them to weather the storm and swim to safety. However, while the Sea permitted them to return to their humanoid form, it henceforward claimed a part of them and their descendants for itself. Now burdened with this irrepressible longing, the new selkies chose to create a life for themselves between the sea and the shore, forever becoming creatures of two worlds. In their humanoid form, selkies resemble humans, although they are generally heavier-set than the average human, and some have slight webbing present between their fingers and toes that hint at their true heritage. What sets selkies apart is that each is born with a magical seal skin that grows alongside them and which many choose to wear as a cape or cloak while in humanoid form. While wearing this skin, a selkie may change into a seal (or sea lion, or even a walrus for some lineages) at will, allowing them to prosper in climates and environments where many other heritages would perish. Because their seal form is so integral to both their identity and their survival, many selkies associate completely doffing their skin with emotional vulnerability and intimacy: a fact that often leads to confusion and misunderstandings when selkies encounter other humanoid heritages! This is not helped by the fact that many selkie lineages tend toward more extreme sexual dimorphism in both their seal and humanoid forms, giving them hyper-masculine or hyper-feminine features. It is therefore no surprise that many non-selkie communities’ first (and sometimes only) interaction with a selkie involves a clandestine love affair or sudden elopement. In consequence, while selkies are relatively rare in terms of raw numbers, half-selkies are proportionately more common than would otherwise be expected. However, no matter where passions may draw them, the Sea of Grimnir always maintains pride of place in a selkie’s heart. A selkie can feel the push and pull of the tides beckoning them at all times, regardless of the distance, and selkies that stray too far from the sea for too long have been known to die of sorrow.
+
+Characters with the selkie heritage share a variety of traits in common with one another. 
+- Type. Your type is Humanoid. 
+- Age. Selkies have shorter lifespans than most humanoids, reaching maturity at 14 and typically living 55-65 years. However, aging also wears down the selkie body less than it does for most humanoids, making them appear comparable to a human four-fifths their age. 
+- Size. In their humanoid form selkies are comparable in height to humans, but hold more body fat at healthy weights, making them noticeably heavier-set on average. Your size is Medium. 
+- Speed. Your speed is 30 feet, and you have a swim speed equal to your speed. 
+- Insulated. You are protected against arctic temperatures and the frigid depths. You have resistance to cold damage. 
+- Sea-Longings. The depths always call to you, no matter where you go. You always know the distance and direction of the nearest ocean, and you can never become lost by non-magical means while at sea. At the Narrator’s discretion, this feature may also apply to similar bodies of water, such as large lakes or underground oceans. 
+- Seal Skin. You were born with a magical seal skin that grows with you and which may be worn alongside other clothes and armor. As a bonus action while wearing the skin, you may shapeshift into either a seal or sea lion, chosen at character creation. You cannot later change your choice. In either case, your alternate form is referred to as your “seal form.” Your skin is specific to you and cannot be used by any other creature, even another selkie. While in seal form, you retain your hit points, as well as the Sea-Longings and Insulated features from the selkie base heritage. Likewise, you may still choose to use features that grant you an alternate AC (such as the berserker’s Rugged Defense feature) if they do not require armor. Your statistics are otherwise replaced with those of your seal form. Any equipment you are wearing or wielding merges into your new form and has no effect until you leave the form. You may remain in your seal form indefinitely, including while unconscious. However, your transformation ends if you are reduced to 0 hit points or choose to end it as a bonus action. If you gain the Wild Shape feature, this feature does not gain any of its benefits. If you lose your skin, you can create new skin for yourself using the regenerate spell or by using magic of similar or greater power, subject to Narrator discretion.
+
+Selkies may select one of the following heritage gifts in addition to the traits above.
+
+*Allure*- Selkies have a reputation for astounding beauty, but also an aura of secrecy that many find deeply compelling. While some selkies bear this aura with an almost naïve simplicity, others have learned to actively employ it to their advantage. You gain the following trait: 
+- **Captivating Creature.** You gain an expertise die on Deception, Performance, and Persuasion checks when interacting with non-hostile humanoids. 
+
+
+*Heavyweight*- Empowered by both physical bulk and a strong territorial instinct, selkies possessing this gift rarely give way to others. Most common among male selkies who must fight for every ounce of respect among their peers, heavyweights tolerate no rivals. You gain the following traits: 
+- **Hold Your Ground.** You gain an expertise die on saving throws to resist being knocked prone or subjected to forced movement. 
+- *Throw Your Weight Around.* When you deal basic melee damage using the Knockdown, Overrun, or Shove maneuvers, you add your proficiency bonus to the damage. Your maneuver DC for these maneuvers increases by 2. 
+
+*Marine Mystic*- The Serpent Sea makes a deeper claim on some selkies than most, and in turn they are invited to partake in the secrets of this primordial entity. Marine mystics hear more than the murmurings of the currents below the waters; they know from whence the waves came and where they will fall. You gain the following traits: 
+- **Hear the Ocean.** You have inherent knowledge of the Aquan language. In addition, aquatic beasts and monstrosities understand anything you verbally communicate to them in Aquan, and you can understand them in return. 
+- **Time and Tide.** You have a limited ability to see into the future. You gain the Premonition sign of faith from the cleric class (link to cleric class, signs of fait hare at the bottom of the page: https://a5e.tools/rules/cleric).
+
+At 10th level, you may also choose one of the following paragon gifts.
+
+*Curse Weaver*- Once per long rest, you may cast bestow curse at 5th level without a spell slot. You may choose either Wisdom or Charisma as your spellcasting ability for this spell. 
+
+*Fearsome Roar* Once between each short and long rest, you may activate the Bloody Roar combat maneuver without using exertion (https://a5e.tools/node/657). 
+
+*Ocean's Envoy* You may cast water breathing once per long rest without a spell slot. When you cast this spell in this way, creatures you affect also gain a swim speed equal to their speed for the duration of the spell.
+
+
+Selkies also possess two unique heritage feats.  These were originally written as a compromise to get around the fact that the mixed heritage rules means that gifts cannot rely on the base traits of a particular heritage, as they might be taken on a different heritage that does not have that trait.
+
+*Beachmaster (requires Seal Skin feature from the selkie heritage)* You descend from a long line of fearsome selkies and your seal form is mighty to behold (although you may have taken some time to grow into it). If you originally chose the sea lion option for your seal form, it is replaced with your choice of either a walrus or a stellar sea lion. If you originally chose the seal option, it is replaced with your choice of either an elephant seal or a leopard seal. You cannot later change your choice. 
+You may also choose to take this feat in place of a heritage gift. If you do so, you may later choose to gain a selkie heritage gift as though it were a feat.
+
+*Pinniped Paragon (requires Seal Skin feature from the selkie heritage, 10th level)*- Your natural weapon attacks in your seal form gain a +2 bonus to hit, deal an additional 1d6 damage, and are considered magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage. 
+If you have a selkie heritage gift or chose to take the Beachmaster feat in place of a heritage gift, you may instead choose to take this feat in place of a paragon gift.
+
+(*Source: Secrets of the Selkies*)

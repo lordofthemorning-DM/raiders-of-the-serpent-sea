@@ -1,0 +1,5 @@
+The youngest of the Vanir from the Lost Lands, Luta was often left on her own because her siblings, the twins, were inseparable. She became no less a warrior than they, training hard and developing a thirst for battle blood. She also fell in love with Thonir, but she was always more comfortable with the two axes that she carried into battle, than with speaking her feelings. She grew apart from the others and was not even present when Boða’s dark magic fell over the others, having eaten her apple after wandering away.
+
+Her statue remains lost but because her priests have divine powers, they know she persists. The most nomadic of the clans, the Lutans, took both their name and ideals from her.
+
+She is associated with skill with weapons but without bragging and boasting. Lethal and efficient, she defended what she felt most important. And she kept her suffering to herself.

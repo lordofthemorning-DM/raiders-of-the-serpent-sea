@@ -1,0 +1,1 @@
+Mirgal was a Vanir that betrayed his own people in a quest for power. Whilst it was not his intention, his magic was used by Aldyhn to create Grimnir. Though he is dead, Grimnir reflects the man Mirgal was.

@@ -1,0 +1,1 @@
+Though long dead, this last of the Yoten has exerted considerable, albeit indirect influence on the inhabitants of Grimnir. Mortals know a world can be destroyed and that it takes courage to stop it from happening. Fear of Boða and the Yoten have kept the people vigilant and watchful. Anything that reminds them of the Yoten is swiftly destroyed. 

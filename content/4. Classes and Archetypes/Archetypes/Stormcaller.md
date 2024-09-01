@@ -1,0 +1,21 @@
+Stormcaller druids feel most at home beneath the open sky. As the uncontested masters of weather magic, they can be a terrifying foe and also an invaluable ally. Many work closely with guardian druids, making sure that crops are watered and hostile monsters are driven away, but some are terrifying scourges who use their power to sink ships, level villages, and slay any who would dare to enter their domain. 
+
+### Weather Watch 
+At 2nd level, the power of the raging storm infuses your magic. All spells of the air, lightning, storm, thunder, water, and weather schools are druid spells for you. 
+
+### Thunderstruck 
+Beginning at 6th level, your storm magic becomes more difficult for creatures to endure. You may choose to deal half the lightning damage done by your spells as radiant damage. In the same way, you may choose to deal half a spell’s cold damage as necrotic, and half a spell’s thunder damage as force. 
+
+### Raincloud’s Blessing 
+Also at 6th level, you learn to perform a special magical ritual that can change the weather in a region for up to a year. The ritual affects an area in acres up to your druid level squared. At the beginning of the ritual, you can choose either hardship or plenty. If you choose hardship, for the next year, the weather will make life very difficult in the area you selected. The specific nature the hardship takes is up to the Narrator, but it may include droughts, flooding, high winds that damage structures and cause soil erosion, and even highly-severe weather like hurricanes and tornadoes. Skilled farmers may be able to eke out a meager harvest, but it is likely that the region will have severe crop shortages at best. If there are strongholds or properties in the region, there is a 25% chance each month that something happens to damage them. If you choose plenty, the opposite happens. Rains are gentle, regular, and enough to ensure a bountiful harvest without flooding local waterways or damaging structures. Weather throughout the year will be mild. Local agriculture will produce more than enough to make everyone in the region well-fed and happy, with plenty left over to trade. If there are strongholds or properties in the area, the cost to upgrade them from frugal to average is halved during the year of plenty. 
+
+### Carried Aloft 
+Beginning at 10th level, your mastery over the power of storms allows you to ride them. While you are outdoors and able to see the clouds or sky, you gain a fly speed of 50 feet and may hover. The benefits from this ability only apply while you are in your natural form or while in a Wild Shape with a fly speed. While you are at least 50 feet off the ground, you also gain a thunderbolt attack. This is a ranged spell attack dealing 1d8 lightning damage plus 1d8 + your Wisdom modifier of thunder damage. It has a range of 150/600 feet (per a ranged weapon) and the damage can be modified by your Thunderstruck ability. At 15th level, the lightning damage increases to 2d8. While you are at least 50 feet off the ground, you may expend a use of your Wild Shape ability as an action to cause the area within 300 feet of you to be affected by the Heavy Precipitation encounter element (your choice of rain or snow). This effect lasts for 10 minutes or until you end the effect as a bonus action. The weather clears after the effect ends, but the precipitation that falls is real and behaves normally. 
+
+### Body of the Storm 
+At 14th level, your mastery of the forces of the storm reaches its apex. You may choose creatures with the Elemental type when using Wild Shape. 
+
+### Reaping Whirlwind 
+Also at 14th level, while you are under the effects of Carried Aloft and at least 50 feet off the ground, you may expend 2 uses of Wild Shape to surround yourself with a terrifying whirlwind made of razor-sharp shards. You are surrounded by simultaneous blade barrier and wind wall effects, each extending 5 feet out from your space. You must concentrate to maintain this ability, and it lasts for up to 10 minutes.
+
+(*Source: MoAR Complete*)

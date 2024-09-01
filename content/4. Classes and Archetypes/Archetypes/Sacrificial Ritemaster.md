@@ -18,7 +18,7 @@ In addition, you always have the *cauterize* spell prepared, it does not count a
 At 10th level you can expend a use of wildshape to mark a creature for sacrifice, in addition to your normal uses.
 
 ### Ultimate Sacrifice
-At 14th level, you can expend 5 Burning Boon charges to cast the *resurrection* spell, no material component required.  You can only cast resurrection on a particular creature once in this way. You also do not need to concentrate on a *bless* spell cast using Burning Boon charges.<br>  You also gain the *flame strike* spell, it is always prepared, and does not count against the number of spells you have prepared.
+At 14th level, you can expend 5 Burning Boon charges to cast the *resurrection* spell, no material component required.  You can only cast resurrection on a particular creature once in this way. You also do not need to concentrate on a *bless* spell cast using Burning Boon charges.<br> You also gain the *flame strike* spell, it is always prepared, and does not count against the number of spells you have prepared.
 
 (*Source: Mysterious and Marvelous Miscellanea*)
 
@@ -26,11 +26,11 @@ At 14th level, you can expend 5 Burning Boon charges to cast the *resurrection* 
 
 
 ### Cauterize
-*2nd-level (evocation; fire, healing)* 
-**Classes:** Cleric, druid, herald, sorcerer 
-**Casting Time:** 1 bonus action 
-**Range:** Short (30 feet) 
-**Target:** one creature 
-**Components:** V, S 
-**Duration:** Instantaneous 
+*2nd-level (evocation; fire, healing)* <br>
+**Classes:** Cleric, druid, herald, sorcerer <br>
+**Casting Time:** 1 bonus action <br>
+**Range:** Short (30 feet) <br>
+**Target:** one creature <br>
+**Components:** V, S <br>
+**Duration:** Instantaneous <br>
 You sear a creature, scorching it, but closing its wounds. This spell deals 2d4 fire damage (potentially rendering the target unconscious or causing a death save failure), then immediately ends all ongoing damage of types other than fire on the target, and finally heals it for 2d8 hit points

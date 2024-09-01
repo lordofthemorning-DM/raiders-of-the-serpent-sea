@@ -31,9 +31,11 @@ At a glory level of 4 or higher, epithets referring to the party as a group begi
 |8|You receive gifts when visiting any settlement friendly to you. At such times you receive 2d20 silver pieces and a random item from the trinkets table.|18|With your expanding glory, so grows the number of raiders that idolize you. Two more shrines appear, in locations of your choice. Once a week, when you visit any shrine, you receive a charm of your choice.|
 |9|Shipbuilders compete to design fearsome figureheads to adorn your longships. You are now able to purchase the rarest of these. Additionally, once per long rest you may attempt a boast with advantage to demand a debt be forgiven.|19|To the victors go the spoils and those that are victorious rewrite history. You may select one deed in the past and have history remember its outcome differently than what occurred. To accomplish this, you must wager 10 glory points and succeed in a DC 20 boast. (See Boasting, below.|
 |10|Non raiders fear you. You now have advantage on Intimidation checks against the Baendur or other outsiders.|20|Your glory is such that you are as venerated as any of the Vanir ever were. With the proper rituals, you might even ascend to godhood, as they did.|
+
+
 To make a Glory/Prestige check or to use it to call in a favor other than those detailed in this table, roll 1d20 and add 1/4 of your current glory score (minimum 1). If you are new to an area or otherwise would be unfamiliar to it, you roll with disadvantage. The DC remains calculated the same (12 plus twice the region level), but various prejudices, situations, etc., can impact that DC up to 4 in either direction.
 
-Boasting
+### Boasting
 
 As an action you may wager your glory points to undertake a boast. Boasting is a Persuasion or Intimidation check, fueled by your popularity and the respect others give you. Select the number of glory points you wish to wager, and these will be applied as a bonus to the Persuasion or Intimidation. However…
 
@@ -41,6 +43,6 @@ As an action you may wager your glory points to undertake a boast. Boasting is a
 - If you roll a natural 1, you lose all the glory points you wagered.
 
   
-Fellowship
+### Fellowship
 
 Glory is held by the individual and should be tracked by each player. However, if the oath of fellowship has been sworn, each heroes’ glory is now connected to the others. Any time a member of the fellowship loses glory, all other members lose one glory point immediately. However, the fellowship also protects the boaster—when they lose a boast, their glory cannot be reduced below the lowest glory level of the other members (after the previously mentioned deduction). This makes wagering glory during a boast less risky.

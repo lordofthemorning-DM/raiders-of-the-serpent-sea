@@ -11,7 +11,7 @@ Starting at 3rd level, you begin composing your epic poem. When certain signific
 - Comedy: Someone rolls a natural 1 on an attack or saving throw.
 - Hubris: Someone rolls a natural 20 on an attack or saving throw.
 - Irony: Someone fails a saving throw after adding a Bardic Inspiration die.
-- Tragedy: Someone is reduced to zero hit points by an enemy.  
+- Tragedy: Someone is reduced to zero hit points by an enemy.  <br>
 Additionally, any particularly exciting event that seems to warrant inclusion in your poem is eligible as long as the GM approves—but don’t push it.
 
 Each time you compose a new epic verse, you must declare that you are doing so. If the GM approves, then you may add 1 verse to your poem. You may also want to write down what happened and why, so that you can enjoy reading it later, but this is not required. Your poem increases in rank as the number of verses grows.  

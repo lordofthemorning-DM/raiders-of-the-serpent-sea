@@ -10,7 +10,7 @@ Also at 3rd level, you gain proficiency in the combat tradition of your choice. 
 At 7th level, you may perform any one of the following once on your turn without spending an action in addition to your normal free object interaction: 
 - Draw and wield a weapon, two weapons, or a weapon and shield. 
 - Stow a weapon, two weapons, or a weapon and shield that you are wielding. 
-- Do both, exchanging one set of wielded gear for another. 
+- Do both, exchanging one set of wielded gear for another. <br>
 You may use this feature between attacks in the Attack action. For example you may make an attack with a longsword and shield against an adjacent enemy and then switch to a crossbow and fire at a distant one with your second attack. 
 
 ### Advanced Training 

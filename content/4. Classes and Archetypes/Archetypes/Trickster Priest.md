@@ -15,7 +15,7 @@ At 1st level you gain proficiency with one of the following skills: Stealth, Dec
 In addition, you learn the *minor illusion* and *message* cantrips.  When using *message*, you may disguise your voice so that the recipient doesn't know it is you talking.  Starting at level 8, you may have your message impersonate the voice of another person you have heard.
 <div style='margin-top:10px'></div>
 ### Channel Divinity: Trickster's Guile
-At 2nd level you may expend your Channel Divinity when you fail an ability check.  You may re-roll that check and gain an expertise die on the re-roll. You must take the new result.
+At 2nd level you may expend your Channel Divinity when you fail an ability check.  You may re-roll that check and gain an expertise die on the re-roll. You must take the new result.<br>
 Alternatively, at 2nd level you may choose a channel divinity option from another cleric archetype that is granted at 2nd level in place of the above option.  You gain that channel divinity option instead.  Once this choice has been made it cannot be changed.
 <div style='margin-top:10px'></div>
 ### Deceptive Duplicate

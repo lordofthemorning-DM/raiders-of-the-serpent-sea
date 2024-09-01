@@ -1,7 +1,7 @@
 Winter Witches are those who draw upon the depths of winter for their magic.  A time of darkness, cold, even death, their magic reflects this, and it gives them something of a sinister reputation.  This is not entirely deserved though.  While some are wicked tyrants who terrorize those who enter their domains, many  winter witches instead take up this path in order to provide others with shelter and guidance in the depths of winter, to aid in their survival.
 
 ### Heart of Winter
-When you select this archetype at 2nd level you learn the ray of frost cantrip if you do not know it already. 
+When you select this archetype at 2nd level you learn the ray of frost cantrip if you do not know it already. <br>
 In addition, all cold spells count as witch spells for you and whenever you cast a cold spell of 1st level or higher, it counts as being once spell slot higher than you actually expended, to a maximum of the highest level spell slot you possess.  In the case of fire shield and infernal weapon, this benefit only applies when casting the cold version.
 
 ### Winter's Home

@@ -18,11 +18,11 @@ Immediately after you damage an opponent you may use your Channel Divinity as a 
 As a bonus action you can use your Channel Divinity to mark an enemy for execution. For the next minute, whenever you attack this marked creature, you score a critical hit on an 18 or higher.
 
 ### Aura of the Executioner
-Starting at 7th level, you always emanate an aura that grants you and your allies increased focus when attacking enemies. You, and any allies within 10 feet of you, may add 1d4 to all attack rolls made each turn. This benefit ends if you become incapacitated.
+Starting at 7th level, you always emanate an aura that grants you and your allies increased focus when attacking enemies. You, and any allies within 10 feet of you, may add 1d4 to all attack rolls made each turn. This benefit ends if you become incapacitated.<br>
 At 18th level, the range of this aura increases to 20 feet and the attack roll bonus increases to 1d6.
 
 ### A Glorious Sacrifice
-Starting at 15th level, your dedication prevents you from dying easily and if you die, no spell, magical effect, or other feature can ever make you return to life as an undead creature.
+Starting at 15th level, your dedication prevents you from dying easily and if you die, no spell, magical effect, or other feature can ever make you return to life as an undead creature.<br>
 Additionally, after taking damage that reduces you to 0 hit points and does not kill you outright, you may use your reaction to temporarily thwart death and remain conscious. You immediately take an extra turn, interrupting the current turn, but can only take the Attack action as well as any movement required to reach an enemy to attack. The movement provided by this feature does not provoke opportunity attacks.
 You are considered to have failed one death saving throw by activating this feature and while you have 0 hit points, damage against you causes you to fail another death saving throw (three death saving throw failures will kill you). When the extra turn ends, you fall unconscious if you still have 0 hit points.
 Once you use this feature, you cannot use it again until you finish a long rest.
@@ -31,7 +31,7 @@ Once you use this feature, you cannot use it again until you finish a long rest.
 Starting at 20th level, you are grimly determined to have a death worthy of the greatest of heroes. You may use an action to undergo a transformation that lasts for 1 minute (or until you are incapacitated or killed). During this time you have the following benefits:
 - **Impervious Flesh.** You gain resistance to all damage.
 - **Of One Mind.** You are immune to being charmed and any allies within 30 feet have advantage on saving throws against charm effects.
-- **Might of the Gods.** When an ally within 10 feet hits an enemy with a melee attack, you may use your reaction to attack that enemy (if you are in range) with advantage.
+- **Might of the Gods.** When an ally within 10 feet hits an enemy with a melee attack, you may use your reaction to attack that enemy (if you are in range) with advantage.<br>
 Once you use this feature, you cannot use it again until you finish a long rest.
 
 (*Source: Raiders of the Serpent Sea, converted to A5e*)

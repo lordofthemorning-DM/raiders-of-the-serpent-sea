@@ -25,11 +25,11 @@ At 7th level you gain the following benefits whenever you score a critical hit:
 - 1d10 x your proficiency bonus in temporary hit points.
 
 ### No Guts, No Glory
-At 15th level the thrill of danger drives you to new heights.  While bloodied can grant yourself advantage on weapon attack rolls until the start of your next turn.  If you do so, all attack rolls against you have advantage for the same duration.  Also while bloodied your chance to critically hit with weapon attacks is 19-20.  If you already critically hit on better than a natural 20 you instead increase your critical hit range by 1 to a maximum of 17-20.
+At 15th level the thrill of danger drives you to new heights.  While bloodied can grant yourself advantage on weapon attack rolls until the start of your next turn.  If you do so, all attack rolls against you have advantage for the same duration.  Also while bloodied your chance to critically hit with weapon attacks is 19-20.  If you already critically hit on better than a natural 20 you instead increase your critical hit range by 1 to a maximum of 17-20.<br>
 In addition, if you die all allies within 60 feet that see you fall gain inspiration.
 
 ### Living Legend
-At 20th level your movement speed increases by 5 feet, your carry weight is doubled, you gain proficiency with an additional 2 skills of your choice, and your high and long jump distances both increase by a number of feet equal to your Charisma modifier.
+At 20th level your movement speed increases by 5 feet, your carry weight is doubled, you gain proficiency with an additional 2 skills of your choice, and your high and long jump distances both increase by a number of feet equal to your Charisma modifier.<br>
 In addition, you and your party have advantage on Glory checks.
 
 (*Source: Heroes Old and New*)

@@ -11,7 +11,7 @@ Starting when you swear your oath to the völv to be trained as a Seer at 3rd le
 At 3rd level, as an action, you mark an individual that you can see or hear within 30 feet and utter a verbal curse against them. You expend one Bardic Inspiration die, assign it to the mark, and then select a fate effect for them. If the target fails a Charisma saving throw against your spell save DC, they are marked by the selected fate.
 - **Clumsy.** You will reduce the first attack roll the mark makes each round by the result of a bardic die roll.
 - **Feeble.** You will reduce the first saving throw the mark makes each round by the result of a bardic die roll.
-- **Slow.** You will reduce the mark’s movement speed by 5 feet multiplied by the result of a bardic die roll (a target’s movement can never be reduced lower than 5 feet). You will reroll this result at the end of each of the mark’s turns while the effect is active.
+- **Slow.** You will reduce the mark’s movement speed by 5 feet multiplied by the result of a bardic die roll (a target’s movement can never be reduced lower than 5 feet). You will reroll this result at the end of each of the mark’s turns while the effect is active.<br>
 After one minute, or if you mark a new target, this effect ends. The effect also ends if you or the target become unconscious. When you use this feature to mark a new target any previous targets are no longer considered marked.
 
 ### Extra Attack
@@ -20,7 +20,7 @@ Starting at 6th level, you can attack twice whenever you take the Attack action 
 ### Enduring Inspiration
 Your curses may be used to empower (or goad) your allies into ever more daring escapades. Starting at 6th level, you can select two new fates for those marked by your Bestow Fate feature. 
 - **Bold.** You will increase the first ability check the mark makes each round by the result of a bardic die roll.
-- **Sturdy.** You will increase the first saving throw the mark makes each round by the result of a bardic die roll.
+- **Sturdy.** You will increase the first saving throw the mark makes each round by the result of a bardic die roll.<br>
 In addition, you can now apply Bestow Fate to more than one creature without it ending early so long as no two creatures share the same fate. 
 
 ### Potent Fate

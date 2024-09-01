@@ -4,7 +4,7 @@ Allowed Archetypes for this campaign: [[Bladeseer]], [[Brute]], [[Houndmaster]],
 
 House Rules
 
-Fighters are allowed to choose any allowed [[combat maneuvers|combat maneuver]] tradition *except*  [[Arcane Knight]], [[Eldritch Blackguard]], [[Cutting Omen]], or [[Sanctified Steel]].
+Fighters are allowed to choose any allowed [[1. Combat Maneuvers|combat maneuver]] tradition *except*  [[Arcane Knight]], [[Eldritch Blackguard]], [[Cutting Omen]], or [[Sanctified Steel]].
 
 The following additional Soldiering Knacks are allowed:
 

@@ -1,12 +1,11 @@
 Sometimes two people are simply fated to cross paths again and again. A parent and a child; two lovers; siblings, twins or otherwise; even a hero and their nemesis. The history of the world is changed by the relationship between these two people.
 
 No matter your connection, your story weaves in and out with the other and together, even if your objectives differ, you complete the various required objectives.
-
 - **Player Interest**: Ragnar & Lagertha, Alfred & Uhtred, Móði & Magni   
 - **Restrictions:** Must be born in Grimnir, preferably in the [[Lutan]] clan.
 
 #### Source of Inspiration
-You draw inspiration from seeing your duty through to the end. You gain inspiration whenever you complete a quest, fulfill a difficult promise, or commit an act of self-sacrifice that includes grievous injury to yourself.  You also gain inspiration everytime you fulfill one of your Heroic Tasks.
+You draw inspiration from seeing your duty through to the end. You gain inspiration whenever you complete a quest, fulfill a difficult promise, or commit an act of self-sacrifice that includes grievous injury to yourself.  You also gain inspiration everytime you fulfill one of your Heroic Tasks.<br>
 _Complete a quest, keep a promise to your own detriment, keep an innocent safe while seriously endangering yourself, commit an act of genuine self-sacrifice._
 #### Inspiration Feature
 Your aid is a lifeline and a steadying source of resolve. Whenever you take the Help action to aid an ally attacking a creature, you may spend your inspiration. If you do, in addition to the normal benefits of the Help action, that creature has disadvantage on attack rolls against creatures other than you until the start of your next turn.
@@ -17,7 +16,6 @@ You both received the same rune tattoo, the symbol ᛖ. You may have had them ta
 #### Feature: The Nature of the Story
 
 When your character is created decide the nature of your bond: Allies, Rivals, or Enemies. Allies and Rivals adventure together, but Rivals tend to compete against, instead of directly support, the other. If your bonded is your Enemy, they are an NPC. This influences many of the abilities you may gain. Based on your decision you have one of the following:
-
 - **Allies.** If you are within 10 feet of your Ally, you gain a +1 bonus to all skill checks and saving throws.
 - **Rivals.** If you can see your Rival and your Rival rolls a natural 20, you roll your next d20 with advantage. 
 - **Enemies (optional, GM discretion).** While your Enemy can see you, you have advantage on all of your rolls. They gain the same benefit. 

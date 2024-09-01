@@ -1,7 +1,7 @@
 They say that someone whose name is still spoken is not dead, and you aim to achieve immortality by that road. The great driving force in your life is a desire to create something that outlasts you, that marks the world for many years after you have left it—and perhaps even changes its destiny forever. 
 
 #### Source of Inspiration: Building Blocks. 
-You draw inspiration from progressing toward some great overarching goal or by building up a body of work that can outlast you. 
+You draw inspiration from progressing toward some great overarching goal or by building up a body of work that can outlast you.<br> 
 *Have some work recognized as exceptional in your lifetime, convince a large number of people to support a cause you believe in, discover or invent something with wide-ranging implications, undermine long-standing physical or social structures.* 
 
 #### Inspiration Feature: Dogged Persistence. 
@@ -12,7 +12,7 @@ Those who give up rarely change the world. You may spend inspiration to do one o
 - Restore a spent hit die. 
 
 #### Fulfilling Your Destiny 
-You fulfill your destiny of Legacy when you create something that will last far beyond your time. Invent something that changes daily life for a whole society or a whole world, create a great work that will be presented as a masterpiece for centuries to come, change the structure of a society, change the relationship between two societies dramatically, cure or introduce a widespread affliction. 
+You fulfill your destiny of Legacy when you create something that will last far beyond your time. Invent something that changes daily life for a whole society or a whole world, create a great work that will be presented as a masterpiece for centuries to come, change the structure of a society, change the relationship between two societies dramatically, cure or introduce a widespread affliction.<br> 
 *Fulfillment Feature: Changed the World.* You are known far and wide. Your glory increases by 3. If your glory is ever 7 or lower, it is instead increased to 8. 
 
 Table: Legacy Destiny 1d6 Legacy Motivation 

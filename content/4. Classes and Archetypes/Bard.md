@@ -14,7 +14,7 @@ Your name is writ in water, and people easily forget your face despite any curre
 #### PARABLE 
 You gain an expertise die on Performance checks. In addition, you can spend at least 1 minute telling a story, which allows you to substitute Performance for any Persuasion or Deception check made to convince someone to follow a course of action provided you can plausibly tie it into the moral of the story.
 #### SHOWSTOPPER 
-*Prerequisites: 13th level, d8 expertise die on Performance checks.* 
+*Prerequisites: 13th level, d8 expertise die on Performance checks.* <br>
 Your expertise on Performance checks increases to 1d10. You may use Performance in place of an Intimidation check when convincing opponents to surrender or stand down from battle. 
 #### REQUIEM 
 You can perform a 10 minute song over a corpse as part of a special ceremony. Make a DC 15 Performance check; on a success you learn whether the target died of natural causes, by accident, or was murdered. You may learn other details at the Narrator’s discretion. 

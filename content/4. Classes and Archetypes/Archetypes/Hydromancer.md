@@ -6,7 +6,7 @@ When you select this archetype at 2nd level, whenever you cast a spell that woul
 ### Born to the Waves
 Also at 2nd level you gain a swim speed equal to your movement speed.  You also add the create or destroy water spell to your spellbook and it counts as a wizard spell for you.
 
-### Torential Flood
+### Torrential Flood
 At 6th level whenever you cast a spell that deals force, bludgeoning, acid, or cold damage that requires a saving throw, if the creature fails the save they are either pushed 10 feet away from you or knocked prone, your choice.  If the spell instead requires a spell attack roll, you can force the target to make a Strength saving throw against your wizard spell DC or suffer the same.  Using this ability on a spell causes the spell to benefit from Inescapable Current.  You can do so a number of times equal to your proficiency bonus and regain all expended uses when you finish a long rest.
 
 ### Flowing Freedom

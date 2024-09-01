@@ -172,7 +172,7 @@ Choose Arcana, Nature, or Religion. You gain an expertise die on checks made wit
 When using a blessing or a curse to curse a target, the penalty increases to d8+spellcasting ability modifier.  If a blessing and a curse causes a creature to fail on the roll, they are rattled until the end of their next turn.
 
 ### Bountiful Blessing
-*Prerequisite: 5th level, Witch's Blessing feature*
+*Prerequisite: 5th level, Witch's Blessing feature*<br>
 When using a blessing or a curse to bless a target, the bonus increases to d8+spellcasting ability modifier.  If a blessing causes a creature to succeed on the roll, they gain inspiration.  A creature who gains inspiration in this way cannot do so again until they finish a long rest.
 
 ### Hands of Healing
@@ -182,48 +182,48 @@ You gain a pool of points equal to 5 + your witch level that refreshes on a long
 You gain a pool of points equal to 5 + your witch level that refreshes on a long rest.  As an action you may make a melee spell attack against a creature.  On a hit, they take necrotic damage equal to the number of expended points and the target cannot regain hit points until the start of your next turn.  You must decide how many points you are spending before the attack roll is made.
 
 ### Witch's Studies
-*Prerequisite: 7th level*
+*Prerequisite: 7th level*<br>
 You may choose a wizard's elective study.  You may choose this mystery a second time starting at 13th level.
 
 ### Innovative Witchery
-*Prerequisite: 7th level*
+*Prerequisite: 7th level*<br>
 You may choose a sorcerer's arcane innovation.  You may choose this mystery a second time starting at 13th level.
 
 ### Witch's Faith
-*Prerequisite: 7th level*
+*Prerequisite: 7th level*<br>
 You may choose a cleric's sign of faith.  You may choose this mystery a second time starting at 13th level.
 
 ### Witch's Lessons
-*Prerequisite: 7th level*
+*Prerequisite: 7th level*<br>
 You may choose a herald's divine lesson.  You may choose this mystery a second time starting at 13th level.
 
 ### Natural Witchery
-*Prerequisite: 7th level*
+*Prerequisite: 7th level*<br>
 You may choose a druid's secret of nature.  You may choose this mystery a second time starting at 13th level.
 
 ### Nourishing Brew
 You treat cook journey activities as one level of success higher, can always use spellcasting ability modifier on checks made for the cook journey activity.
 
 ### Marcher's Draught
-*Prerequisite: level 5* 
+*Prerequisite: level 5* <br>
 You can brew draughts equal to spellcasting ability modifier, that let you ignore the first number of bonus hours of a forced march equal to half your proficiency bonus and a bonus on saving throws against a forced march equal to your spellcasting ability modifier until they finish a long rest.  If affected creatures exceed the ignored number of hours and must save the DC is calculated including the previously ignored hours.
 
 ### Familiar Message
 You may use your familiar as a target for the *animal messenger* spell. When doing so it travels 75 miles per day, and it isn't otherwise available with you while traveling; after delivering the message they are automatically dismissed and you may re-summon them as normal.  You also learn rare version of *animal messenger*.
 
 ### Wandering Hut
-*Prerequisite: level 5*
+*Prerequisite: level 5*<br>
 Once per week, may ritually cast *tiny hut* without consuming the material component.  This does not apply to casting it with a spell slot, only ritual casting.
 
 ### Beauty Sleep
-*Prerequisite: level 5*
+*Prerequisite: level 5*<br>
 You can give up one potion from your Witch's Brew ability to instead brew a "slumber and recover" draught. If taken before a long rest the drinker cannot awaken for 8 hours, even if taking damage or reduced to 0 hit points.  It works on any creature susceptible to the *sleep* spell.  At the end of the rest the creature gains the benefit of long resting in a haven, even if they were not in one.
 
 ### Witch's Steed
 You learn one of the two rare versions of *phantom steed*.
 
 ### Witch's Broom
-*Prerequisite: level 5*
+*Prerequisite: level 5*<br>
 Once per long rest you may spend a 10 minute ritual (1 minute if you have ritual mastery) to enchant an ordinary non-magical broom or stick of similar size as a broom of flying.  This effect requires concentration and lasts up to a number of hours equal to your proficiency bonus.
 
 Witch Spell List 

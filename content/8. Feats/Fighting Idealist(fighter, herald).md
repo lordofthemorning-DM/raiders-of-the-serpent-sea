@@ -1,5 +1,5 @@
 ### Fighting Idealist 
-***Prerequisites:*** *3 levels in fighter, 3 levels in herald* 
+***Prerequisites:*** *3 levels in fighter, 3 levels in herald* <br>
 You have combined a strong ideological commitment with a tremendous amount of martial training. You gain the following benefits: 
 - Your Strength, Dexterity, or Charisma score increases by 1, to a maximum of 20. 
 - Half your herald levels count as fighter levels for the purposes of the fighter’s Extra Attack feature. 
@@ -10,7 +10,7 @@ You have combined a strong ideological commitment with a tremendous amount of ma
 - If you selected Watchful Eye, you gain blindsight with a range of 10 feet. 
 
 ### Zealous Warrior 
-***Prerequisite:** Fighting Idealist feat* 
+***Prerequisite:** Fighting Idealist feat* <br>
 Your mix of pure martial skill with magical power borne out of a strong commitment to your principles has made you a dauntless foe to your enemies and a stalwart protector of your allies. You gain the following benefits: 
 - After you take the Attack action, you can immediately use Lay on Hands as a bonus action. 
 - Half your fighter levels count as herald levels for the purpose of the Sacred Aura and Improved Sacred Aura features. 
@@ -18,7 +18,7 @@ Your mix of pure martial skill with magical power borne out of a strong commitme
 - If a spell or effect would impose a condition you are immune to on you, you can spend a use of Indomitable as a reaction to attempt a save against it anyway. If the save fails, nothing happens. If it succeeds, the effect is reflected back on its source, which suffers the full effects of being targeted by the effect or if it does not target an individual creature, being in its area. You still suffer any effects that you are not immune to, and all other targets are affected as normal.
 
 ### Principled Armiger 
-***Prerequisite:** Zealous Warrior feat* 
+***Prerequisite:** Zealous Warrior feat* <br>
 Your dedication and fighting spirit have blended together into a unified whole. You are an avenger, a protector, and an exemplar all at once. You gain the following benefits: 
 - Your Strength, Dexterity, or Charisma score increases by 1, to a maximum of 20. 
 - Once per long rest, you can spend 3 points of exertion and 6 points from your Lay on Hands pool to remove a level of fatigue from yourself. 

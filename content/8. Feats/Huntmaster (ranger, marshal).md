@@ -1,5 +1,5 @@
 ### Huntmaster 
-***Prerequisites:** 3 levels in marshal, 3 levels in ranger* 
+***Prerequisites:** 3 levels in marshal, 3 levels in ranger* <br>
 You know what it takes to survive in the wilds, how to lead others competently, and most importantly, how to do both at the same time. You gain the following benefits: 
 - Your Dexterity, Wisdom, or Charisma score increases by 1, to a maximum of 20. 
 - You do not suffer disadvantage on Stealth checks due to medium armor. 
@@ -8,14 +8,14 @@ You know what it takes to survive in the wilds, how to lead others competently, 
 - Your ranger levels count as marshal levels for the purpose of determining the range of your Commanding Presence feature. 
 
 ### Raid Leader 
-***Prerequisite:** Huntmaster feat* 
+***Prerequisite:** Huntmaster feat* <br>
 Your combination of woodcraft and tactical acumen makes you uniquely suited to coordinating operations far from the comforts of civilization. You gain the following benefits: 
 - When you use your Mark Foe feature on a studied adversary, you any allies within the range of your Commanding Presence gain the benefits of Hunter’s Target against that creature. 
 - Half your ranger levels count as marshal levels for the purpose of gaining the Combat Directives feature. Choose one of your ranger combat traditions. Targets of Combat Directives can also use maneuvers you know from that tradition. 
 - If you have one or more of the following Exploration Knacks, when you use one, allies within the range of your Commanding presence can use them as well: Build Shelter, Forced Marcher, Guide, Longwalker. 
 
 ### Wilderness Monarch 
-***Prerequisite:** Raid Leader feat* 
+***Prerequisite:** Raid Leader feat* <br>
 The wilds are your domain and your authority is recognized by all who live there. You gain the following benefits: 
 - Your Dexterity, Wisdom, or Charisma score increases by 1, to a maximum of 20. 
 - Your ranger levels count as marshal levels for the purpose of gaining the Stronghold feature, but if your marshal levels alone are not enough to gain the feature, the stronghold must be a menagerie, encampment, or sacred grove. You cannot gain a second stronghold with this benefit, regardless of your mix of levels. 

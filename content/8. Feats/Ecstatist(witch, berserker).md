@@ -1,5 +1,5 @@
 ### Ecstacist 
-***Prerequisite:** 3 berserker (rugged defense) and 3 witch (warding blessing)* 
+***Prerequisite:** 3 berserker (rugged defense) and 3 witch (warding blessing)* <br>
 Magic does not normally rest well in a raging mind, but not all are content to accept this. Some, those who walk the path of witchcraft but with hearts that burn with a berserker’s fire, have developed ways to meld the two together by using their herb lore to develop draughts that place them into a special type of ecstatic trance, allowing them to contain and control this wild contradiction, though not without cost. You gain the following benefits: 
 - You gain a +1 bonus to your choice of your Strength or witch spellcasting ability score, to a maximum value of 20. 
 - You gain proficiency with your choice of the [[Cutting Omen]] or [[Sanctified Steel]] combat traditions. 
@@ -10,14 +10,14 @@ Magic does not normally rest well in a raging mind, but not all are content to a
 - You may cast normally any spell with a range of self or cantrips from the Weapon secondary school. When an ecstatic rage ends you are poisoned for 1 hour and must make a DC 10 saving throw with your choice of constitution or your witch spellcasting ability modifier, taking a level of strife on failure. Each time you succeed on this save, the DC increases by 2, resetting to 10 when you fail or finish a long rest. 18 
 
 ### Brewed Potency 
-***Prerequisite:** Ecstatic feat* 
+***Prerequisite:** Ecstatic feat* <br>
 In your attempts to perfect your trancing draughts, you have gained deeper levels of mastery of herbs, helpful and harmful. You gain the following benefits: 
 - You gain the Witch's Brew ability if you do not already have it. If you do, half your berserker levels count as witch levels for the purposes of it. 
 - You gain proficiency with poisoner's kit if you did not already have it, or an expertise die on checks made with it if you do. 
 - When you enter an ecstatic rage you may expend a spell slot of first level or higher to magically manifest a noxious magical poison on one or two weapons you are holding, provided they deal piercing or slashing damage. While your ecstatic rage lasts as long as you are holding these weapons, they deal an additional 1d4 bonus poison damage or 1d8 if the weapon is wielded with two hands. 
 
 ### Pure Ecstasy 
-***Prerequisite:** Brewed Potency feat* 
+***Prerequisite:** Brewed Potency feat* <br>
 You have truly mastered your trancing draughts, and giant the following additional benefits: 
 - While in an ecstatic rage you gain the following additional benefits: 
 - You add your witch spellcasting ability modifier to concentration saves. 

@@ -4,7 +4,7 @@ Allowed Archetypes for this campaign: [[Black Knight]], [[Crownsworn]], [[Conque
 
 House Rules
 
-In addition to those listed in the link above, heralds may also select the [[Arcane Knight]], [[Eldritch Blackguard]], or [[Sanctified Steel]] [[combat maneuvers|combat maneuver]] traditions.
+In addition to those listed in the link above, heralds may also select the [[Arcane Knight]], [[Eldritch Blackguard]], or [[Sanctified Steel]] [[1. Combat Maneuvers|combat maneuver]] traditions.
 
 The following additional Divine Lessons are allowed:
 
@@ -19,7 +19,7 @@ Your long jump distance increases by 10 feet and your high jumps are increased b
 ### REVERENT ARMORER 
 You gain proficiency with your choice of either smith’s tools or sewing kits and an expertise die on checks to repair weapons and armor. When you repair a suit of armor, you can spend a point from your Lay on Hands pool to bless it. The wearer can spend an action to invoke the blessing, gaining one of the following benefits: 
 - The armor sheds dim light in a 10-foot radius for one hour. 
-- The armor gains the comfortable trait for one long rest. 
+- The armor gains the comfortable trait for one long rest. <br>
 If the wearer is reduced to 0 hit points with the blessing in place, they receive an expertise die on their first death saving throw. The blessing dissipates if the wearer removes the armor or finishes a long rest. Alternatively, you can spend an hour working with an intact suit of armor to impart the blessing. You may only have one such blessing active at a time. 
 ### RIDE LIKE HEAVEN 
 You gain an expertise die on Animal Handling checks, and you can channel healing power into your mount, soothing tired muscles and calming its pounding heart, allowing it to briefly exceed its normal limits. While riding a mount, you can spend 10 Lay on Hands points to allow your mount to move at a gallop speed for an additional hour. Once a given mount has been affected by this feature, it cannot be affected again until it has finished a long rest. 

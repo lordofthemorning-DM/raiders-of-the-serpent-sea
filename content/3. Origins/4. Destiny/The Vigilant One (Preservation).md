@@ -3,12 +3,11 @@ You are the last of a powerful family that, for generations, has kept watch on t
 Were the Yoten to return, your destiny is to stand firm against them. Yet you are now alone, except for the ravens that fly across the Serpent Sea and whisper to you all that they see, all that they hear. The time is coming, the ravens say. The time for watching ends... the time for war begins.
 
 Yet you are troubled. All your life you have suffered severe nightmares, catching glimpses of horrid creatures you presume are the Yoten. In all of these nightmares you fight against them… and you fall, you fail.
-
 - **Player Interest**: Jeor Mormont, Heimdall, Obi-Wan Kenobi   
 - **Restrictions:** Must be born in Grimnir
 
 #### Source of Inspiration
-You understand the importance of protecting the knowledge of those who came before you, their traditions and their creations. You gain inspiration whenever you help recover or preserve something ancient. You also gain inspriation anytime you complete a Heroic Task.
+You understand the importance of protecting the knowledge of those who came before you, their traditions and their creations. You gain inspiration whenever you help recover or preserve something ancient. You also gain inspiration anytime you complete a Heroic Task.<br>
 _Recover a scroll of lost knowledge, practice an endangered language, protect an important historic or religious site, preserve an ancient relic, learn a custom or technique of an old society._
 
 #### Inspiration Feature

@@ -3,7 +3,6 @@ Your family once ruled a wealthy Baendur kingdom, and your mother was a respecte
 Since then, you have lived with the raiders and have come to accept them as your own people. They eventually adopted you and you are no longer a thrall. Yet you have never forgotten your family or the lands that by birth are yours to inherit. Recently your adopted family died during a raid between rival clans. You survived but the location of your homeland was lost with the deaths of your raider family. 
 
 Yet you returned to life the very next day. Since then, you have died several more times, but you always rise again, the following morning. Now you seek a way to end the curse so that you might die as a raider should and earn your place in the Halls of the Slain.
-
 - **Player Interest:** Uhtred, Conan the Barbarian 
 - **Restrictions:** Must be born in Grimnir (human, half-elf, or tuss recommended)
 

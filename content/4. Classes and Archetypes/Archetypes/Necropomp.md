@@ -12,7 +12,7 @@ The necropomp is a cleric in service to gods and forces of death and the afterli
 <div style='margin-top:10px'></div>
 
 ### Steward of the Mortal Gates
-At 1st level you learn the *chill touch* and *spare the dying* cantrips if you do not know them already.  You may cast *spare the dying* as a bonus action with a range of 30 feet.  In addition, when you cast *spare the dying* you may instead choose to heal the target for 1 hit point. You may do so a number of times equal to your Wisdom modifier and regain all expended uses when you finish a long rest.
+At 1st level you learn the *chill touch* and *spare the dying* cantrips if you do not know them already.  You may cast *spare the dying* as a bonus action with a range of 30 feet.  In addition, when you cast *spare the dying* you may instead choose to heal the target for 1 hit point. You may do so a number of times equal to your Wisdom modifier and regain all expended uses when you finish a long rest.<br>
 In addition, the Funeral and Guide the Passing effects of the *ceremony* spell as well as the *gentle repose* spell last twice as long as normal, and the Funeral option lasts indefinitely against undead of CR 1 or lower.
 <div style='margin-top:10px'></div>
 ### Channel Divinity: Creeping Death

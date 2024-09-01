@@ -21,7 +21,7 @@ As a bonus action you can cause your weapon attacks to deal an amount of additio
 At 7th level when a creature starts its turn frightened of you, they take psychic damage equal to your proficiency bonus.
 
 ### Massive Retaliation
-At 15th level when you smite a target or critically hit them with a weapon attack they must make a Wisdom saving throw against your spell save DC or be frightened until the end of their next turn. Whenever you reduce a creature to 0 hit points all hostile creatures within 30ft of the creature you felled must make a Wisdom saving throw or be frightened until the end of their next turn.
+At 15th level when you smite a target or critically hit them with a weapon attack they must make a Wisdom saving throw against your spell save DC or be frightened until the end of their next turn. Whenever you reduce a creature to 0 hit points all hostile creatures within 30ft of the creature you felled must make a Wisdom saving throw or be frightened until the end of their next turn.<br>
 In addition, when a creature within 5ft of you hits you with an attack you may use your reaction to attack them back, critically hitting on a 17-20 when you do so.  You may do so a number of times equal to your proficiency bonus and regain all expended uses when you finish a long rest.
 
 ### Come the Conqueror

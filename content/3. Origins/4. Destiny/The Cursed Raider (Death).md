@@ -8,12 +8,11 @@ Till the wolf rises at the forever sunset."_
 You laughed off the curse, but that evening you choked on the bones of a boar while celebrating your victory and died an inglorious death. Your clan left you on that beach in the middle of nowhere, to be claimed by Hel and brought to her Underworld. They mourned for you, knowing that your death was unworthy, and you would never enter the Halls of the Slain.
 
 Yet you returned to life the very next day. Since then, you have died several more times, but you always rise again, the following morning. Now you seek a way to end the curse so that you might die as a raider should and earn your place in the Halls of the Slain.
-
 - **Player Interest:** Elric of Melniboné, Captain Navarre 
 - **Restrictions:** Must be born in Grimnir
 
 #### Source of Inspiration
-You draw inspiration from the ending of lives, specifically lives of greater import whose ending is felt by others. You gain inspiration whenever you are directly responsible for ending the life of something meaningful, whether it’s that of a particularly powerful monster or a more abstract “life”, such as the practice of a time-honored tradition.  You also gain inspiration anytime you complete one of your Heroic Tasks.
+You draw inspiration from the ending of lives, specifically lives of greater import whose ending is felt by others. You gain inspiration whenever you are directly responsible for ending the life of something meaningful, whether it’s that of a particularly powerful monster or a more abstract “life”, such as the practice of a time-honored tradition.  You also gain inspiration anytime you complete one of your Heroic Tasks.<br>
 *Kill or participate in killing a creature with CR equal to or higher than your class level, end an established organization, stop a long-standing tradition, break something ancient.*
 
 #### Inspiration Feature

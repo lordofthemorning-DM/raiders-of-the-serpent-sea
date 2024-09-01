@@ -1,7 +1,7 @@
 Green Witches dwell in wild places, exploring the way in which magic weaves in and out of the natural world. Those who are not familiar with such things might at first mistake them for druids, but that is a severe misunderstanding.  Green witches do not revere or serve nature itself, but rather study the ways magic interacts with nature, the types of magic drawn to it, and the ways that magic can manipulate natural forces, often with a looser definition of what counts as "natural" than a druid, and blend traditional nature magic with other forms.
 
 ### Green Spells
-When you select this archetype at 2nd level you add the nature spell school to your list of witch spells. 
+When you select this archetype at 2nd level you add the nature spell school to your list of witch spells. <br>
 You are also under the constant effect of a *speak with animals* spell.
 
 ### Natural Stride

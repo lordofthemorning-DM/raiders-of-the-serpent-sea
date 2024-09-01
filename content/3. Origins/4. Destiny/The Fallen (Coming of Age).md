@@ -3,12 +3,11 @@ You are a wanderer of the world yet have no clear idea why this is so. Beyond th
 But who are you… where did you come from? Do you have a family? Why did you lose your memories? These questions plague you more in recent weeks as strange dreams have surfaced… dreams of another realm. Another you.
 
 You sense that you must serve a great purpose and you yearn to discover what this must be.
-
 - **Player Interest:** Loki, Angel, The Nameless One
 - **Restrictions:** Most options will work, but the game master has the final decision and should be consulted when selecting this option
 
 #### Source of Inspiration
-You draw inspiration from setting out with adventure in front of you. You gain inspiration whenever you achieve a personal milestone.  You also gain inspiration everytime you complete one of your Heroic Tasks.
+You draw inspiration from setting out with adventure in front of you. You gain inspiration whenever you achieve a personal milestone.  You also gain inspiration everytime you complete one of your Heroic Tasks.<br>
 _Join a new guild or organization, travel somewhere new and far from home, accept or complete a new major quest or mission, gain a level, change worldviews and grow as a person._
 
 #### Inspiration Feature

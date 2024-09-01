@@ -4,7 +4,7 @@ Allowed Archetypes for this campaign: [[Beastmaster]], [[Hunter]], [[Skilled Sur
 
 House Rules
 
-In addition to those listed in the link above, rangers may also select the [[Beast Unity]] and [[Viper's Fangs]]  [[combat maneuvers|combat maneuver]] tradition.
+In addition to those listed in the link above, rangers may also select the [[Beast Unity]] and [[Viper's Fangs]]  [[1. Combat Maneuvers|combat maneuver]] tradition.
 
 The Explorer's Instinct ability at level 8 now lets you take 2 reactions per round a number of times per long rest equal to your proficiency bonus instead of just once.  You can still take no more than 2 reactions in a given round.
 

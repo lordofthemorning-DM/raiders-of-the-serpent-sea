@@ -5,5 +5,5 @@ The Knattle compete rigorously and often, from contests of strength or agility, 
 In the great reckoning that followed the previous clan leader’s death, Hroarr bested all contenders to become jarl. But his hold over the clan is tenuous for many do not want a dwarf leading them. 
 
 - Jarl: Hroarr Longspear
-- Races: Humans; Dwarves
+- Heritages: Humans; Dwarves
 - Settlements: Tukk, their primary settlement, is in the High North. They also have smaller fishing posts along that northern coast and a few camps on Turnfjall as well.![[Knattle.jpg]]

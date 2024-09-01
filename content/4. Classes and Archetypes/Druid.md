@@ -12,7 +12,7 @@ The following additional Secrets of Nature are allowed:
 ### BEYOND NATURAL
 There are many creatures normally regarded as unnatural, but in your heart these creatures still have a right to exist and a place within the natural world. You gain an expertise die on Animal Handling checks regarding monstrosities and may treat non-sentient monstrosities as if they were beasts for the purposes of Animal Handling. In addition, spells and features that allow you to communicate with beasts apply to monstrosities as well.
 ### BIRDSINGER 
-*Prerequisite: A Way With Animals* 
+*Prerequisite: A Way With Animals* <br>
 You share a kinship with the feathered and taloned, and the chorus of morning birdsong is akin to your daily news. You gain an expertise die on Animal Handling checks regarding birds and other feathered creatures. In addition, at dawn you can spend 10 minutes and join the chorus of morning birdsong and converse about local events. If you do, you learn the following information regarding the area of the surrounding 5 mile radius: 
 - Any notable locations that differ greatly from the surroundings in the area. 
 - Any unusual movements of creatures within the last 24 hours within the area. 

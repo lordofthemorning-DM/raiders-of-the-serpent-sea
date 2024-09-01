@@ -1,12 +1,11 @@
 You were part of a merchant’s caravan making its way to a bustling port in your homeland, when a multicolored portal appeared, swallowing you and the rest of your caravan. You emerged on a barren coast, a tumultuous sea to your north. Many of the caravan wagons were damaged or lost entirely, having appeared in the hostile waters. You, and the other survivors, made your way along the coastal desert, but all manner of unusual creatures assailed you. Many of your companions died and only a few of you found your way to Nowhere.
 
 You joined this community of outcasts and are now a varang. Guided by the town’s seer, you have made a journey west, to the Tower of Kekkell, with the hope that its secrets might help you understand how to return home.
-
 - **Player Interest**: Wizard of Oz, The Fionavar Tapestry 
 - **Restrictions:** Must be an explorer from another land (unlike other backgrounds)
 
 #### Source of Inspiration
-You draw comfort from the thought of home, even when it’s hard to endure. You gain inspiration whenever you forgo a comfort or accept a significant hardship in order to better advance your journey.  You also gain inspiration anytime you complete a Heroic Task.
+You draw comfort from the thought of home, even when it’s hard to endure. You gain inspiration whenever you forgo a comfort or accept a significant hardship in order to better advance your journey.  You also gain inspiration anytime you complete a Heroic Task.<br>
 *Willingly partake in a forced march, leave behind someone you’ve grown close to, take a shortcut through a perilous region.*
 
 #### Inspiration Feature

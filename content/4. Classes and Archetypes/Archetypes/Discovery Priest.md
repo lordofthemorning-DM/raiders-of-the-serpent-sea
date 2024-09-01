@@ -21,7 +21,7 @@ Starting at 1st level, when you are traveling through any environment other than
 ### Channel Divinity: Guided by the Divine
 Your years of exploration, combined with the bond you share with your god, grant you exceptional abilities to locate areas of interest. Starting at 2nd level, you may use an action to use your Channel Divinity to help locate a destination. Until your next long rest, you know the following information about any known location:
 - How far it is to your chosen destination in hours, days, or weeks.
-- The compass direction you need to take to reach your destination.
+- The compass direction you need to take to reach your destination.<br>
 You cannot determine the distance to a location that you have only heard of by story or myth, but you can determine the direction. If the location is not known by any mortal, the location is not on the same plane of existence, or is magically hidden, you learn neither direction nor distance, but this ability will confirm whether the destination actually exists.
 
 You may only use this ability to focus on one location at a time—the most recent use of this feature overrides any previous uses.

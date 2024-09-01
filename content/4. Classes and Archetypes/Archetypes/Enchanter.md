@@ -1,6 +1,6 @@
 Enchanters are witches who specialize in magic that manipulates, controls, or befuddles the mind.  While they can be benevolent and use their powers for good, those enchanters who do turn to darker motivations and aims are among the most terrifying of their kind, so much so that their reputation tends to bleed over and affect all enchanters, and indeed all witches.
 ### Enchanting Presence
-When you select this archetype at 2nd level you add the enchantment spell school to your list of witch spells. 
+When you select this archetype at 2nd level you add the enchantment spell school to your list of witch spells. <br>
 You also gain proficiency with persuasion and deception, or an expertise die if already proficient.
 
 ### Snare Unwary Minds

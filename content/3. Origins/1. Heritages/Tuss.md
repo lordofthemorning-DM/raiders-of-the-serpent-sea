@@ -37,17 +37,17 @@ Tuss may select one of the heritage gifts of a Human: *Diehard Survivor*, *Ingen
 
 At 10th level, you may also choose following paragon gift.
 
-*True Nature*- As an action, you manifest your true nature. Your physical appearance changes noticeably. Your skin or eyes may shift to an unusual color. You might sprout horns or suddenly become covered with fur or scales. Define these appearance details when you select this heritage. You may use an action to hide your true nature once more.  You also automatically activate your true form as part of your Steadfast ability when reduced to 0 hit points. While your true nature ability is active you have one of the following sets of additional abilities (chosen when you gain this gift):
+*True Nature*- As an action, you manifest your true nature. Your physical appearance changes noticeably. Your skin or eyes may shift to an unusual color. You might sprout horns or suddenly become covered with fur or scales. Define these appearance details when you select this heritage. You may use an action to hide your true nature once more.  You also automatically activate your true form as part of your Steadfast ability when reduced to 0 hit points. While your true nature ability is active you have one of the following sets of additional abilities (chosen when you gain this gift):<br>
 *Form of War*
 - **Darkvision.** You see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light (colors in this darkness are seen as shades of gray).
 - **Powerful.** Whenever you hit with a weapon attack you do additional damage, equal to half of your proficiency bonus (rounded up).
 - **Swift.** Your walking speed increases by 5.
-- **Unsettling.** You have disadvantage on Charisma (Persuasion) checks and advantage on Charisma (Intimidation) checks.
+- **Unsettling.** You have disadvantage on Charisma (Persuasion) checks and advantage on Charisma (Intimidation) checks.<br>
 *Form of Sorcery*
 - **Darkvision.** You see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light (colors in this darkness are seen as shades of gray).
 - **Unsettling.** You have disadvantage on Charisma (Persuasion) checks and advantage on Charisma (Intimidation) checks.
 - **Alien Mind.** You have an Expertise die on concentration checks.
-- **Powerful Magic.** You may add the damage equal to your proficiency bonus to damage with one spell.
+- **Powerful Magic.** You may add the damage equal to your proficiency bonus to damage with one spell.<br>
 *Form of Monsters*
 - **Darkvision.** You see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light (colors in this darkness are seen as shades of gray).
 - **Unsettling.** You have disadvantage on Charisma (Persuasion) checks and advantage on Charisma (Intimidation) checks.

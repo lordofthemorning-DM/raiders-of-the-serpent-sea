@@ -22,6 +22,6 @@ You have an expertise die on saving throws to avoid or escape being grappled, re
 You are immune to poison damage and the poisoned condition.  This has also bolstered your general constitution, granting an expertise die on all saving throws against disease.
 
 ### Master Slayer
-At 15th level, when attacking one of your studied adversaries you may increase the benefits of your trained accuracy ability as if you had expended one additional use, to a maximum equivalent of 3 uses.  Once you have done so against a specific creature, you cannot do so again against that creature for 24 hours.
+At 15th level, when attacking one of your studied adversaries you may increase the benefits of your accuracy bonus ability as if you had expended one additional use, to a maximum equivalent of 3 uses.  Once you have done so against a specific creature, you cannot do so again against that creature for 24 hours.
 
 (*Source: Heroes old and New*)

@@ -13,7 +13,7 @@ Furthermore your wolf can act to defend itself or you if you are incapable of gi
 When you command your wolf to take a particular action it gains additional benefits:
 - The Attack Action. Your wolf adds your proficiency bonus to it's attack and damage rolls.  If at level 18 you take the Beastly Attack feature, this also apply to attacks made as part of that ability in addition to those you command with a bonus action.
 - The Dodge action. In addition to its usual effects, when your wolf takes the Dodge action, it helps to confuse opponents attacking you. Any attack rolls against you are now made with disadvantage until the start of your next turn as long as the wolf remains within 10 feet of you. 
-- The Help action. When you command your wolf to use a Help action to assist you in combat against a specific creature, you improve your chance of scoring a critical hit. Your critical hit range for that attack becomes a 19-20, or increases by 1 if already a 19-20 or better to a maximum of 17-20..
+- The Help action. When you command your wolf to use a Help action to assist you in combat against a specific creature, you improve your chance of scoring a critical hit. Your critical hit range for that attack becomes a 19-20, or increases by 1 if already a 19-20 or better to a maximum of 17-20.
 
 ### Woodland Rider
 At 5th level your wolf grows into an adult Grimnir wolf and can now be used as a mount (and does not require a saddle). The time spent training together has also made the two of you more effective in combat. While mounted on your wolf you both gain the following benefits:
